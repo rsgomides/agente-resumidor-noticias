@@ -1,0 +1,14 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Configurações com chaves secretas
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Saídas geradas (opcional, pode manter ou versionar exemplos)
+# output/*.md
