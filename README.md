@@ -75,4 +75,4 @@ O projeto vem com uma chave configurada no arquivo `.env`. Caso queira utilizar 
 ## 📖 Quer Entender Como Tudo Foi Feito?
 
 Consulte a pasta de documentação didática completa:
-👉 [**Acessar a Pasta Guia Didático do Projeto**](../guia-didatico-do-projeto/README.md)
+👉 [**Acessar a Pasta Guia Didático do Projeto**](https://github.com/rsgomides/agente-resumidor-noticias/tree/main/guia-didatico-do-projeto)
